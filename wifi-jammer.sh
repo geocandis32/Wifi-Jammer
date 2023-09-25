@@ -7,7 +7,8 @@
 #------------------------------------------------------#
 # Author                 D@rk_Synt@x                   #
 # Instagram              its_.error._                  #
-# Github                https://github.com/DarkSyntax7 #
+# Github 
+               https://github.com/DarkSyntax7 #
 #      Follow Me On Instagram!!                        #
 #------------------------------------------------------#
 
